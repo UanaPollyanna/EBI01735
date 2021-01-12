@@ -1,8 +1,10 @@
 # EBI01735
-Open Targets Platform Bioinformatician Code Test
+Open Targets Platform Bioinformatician Code Test-- Oana Florean
 
-x.py contains python code to query a remote documented REST API, fetch and analyse the data, and test code to specifications
-x.R contains R code to query a remote documented REST API, fetch and analyse the data, and test code to specifications
+OT_testOana.py contains python code to query the REST API, fetch and analyse the data, and test code to specifications.
+OT_testOana.py is proper for evaluation as requested; contains working code, proper testing, useful documentation and code reusability.
 
-xpy.txt?? contains instructions to run x.py code in a unix-like machine
-xR.txt?? contains instructions to run x.R code in a unix-like machine  
+
+OT_testOana.R contains R code to query the REST API, fetch and analyse the data, and test code to specifications.
+OT_testOana.R is from my passion for the quirky R; contains working code and minimum instructions and documentation.
+ 
